@@ -1,0 +1,55 @@
+header {
+    background-color: #ffffff;
+    border: 3px solid #cccccc;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-bottom:50px;
+    margin-top: 0;
+    padding: 0;
+}
+body {
+    background-image: url(https://img.freepik.com/free-vector/blue-abstract-acrylic-brush-stroke-textured-background_53876-86373.jpg?size=626&ext=jpg)
+}
+img {
+    width: 200px;
+    height: 200px;
+}
+.container {
+    width: 960px;
+    height: auto;
+    background-color:#ffffff;
+    border: solid 2px #dddddd;
+    padding-left: 20px;
+    padding-bottom: 20px;  
+    margin: auto;
+}
+table {
+    width: 500px;
+}
+nav {
+    position: absolute;
+    right: 30px;
+    top: 35px;
+    font-family: Arial, Helvetica, sans-serif;
+    
+    }
+h2 {
+    color:#4aaaa5;
+    }
+    a:link {
+        text-decoration: none;
+    }
+h1 {
+    background-color:#4aaaa5;
+    color: white;
+    max-width: 250px;
+    margin-left: 45px;
+}
+.Hangman {
+    position: absolute;
+    background-color: #4aaaa5;
+    color:#ffffff;
+    margin: 185px 2px;
+    width: 200px;
+    text-align: center;
+    padding:0;
+}
